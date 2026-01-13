@@ -8,7 +8,7 @@ Summary:	Typical XPath methods for HTML::TreeBuilder
 Summary(pl.UTF-8):	Typowe metody XPath dla klasy HTML::TreeBuilder
 Name:		perl-HTML-TreeBuilder-XPath
 Version:	0.14
-Release:	1
+Release:	2
 # same as perl5 5.8.4+
 License:	GPL v2 or Artistic
 Group:		Development/Languages/Perl
